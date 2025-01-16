@@ -5,5 +5,5 @@ Ele tem como objetivo registrar o nome do projeto, o valor que foi fornecido par
 a exclusão do quadro, e possuí o modo light e o modo dark.
 
 ## Com testar o projeto?
-copie e cole o link: http://localhost:5182/, no seu navegador para testar a aplicação.
+copie e cole o link: http://localhost:5173/, no seu navegador para testar a aplicação.
 
